@@ -54,4 +54,4 @@ team remove dbxcyellow
 
 ##informs user that the datapack is ready to be uninstalled
 
-tellraw @a ["",{"text":"Color Changer datapack ready for removal.","color":"green"}]
+tellraw @s ["",{"text":"Color Changer datapack ready for removal.","color":"green"}]
