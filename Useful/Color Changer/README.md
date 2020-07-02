@@ -1,4 +1,4 @@
-#This repository is deprecated!
+# This repository is deprecated!
 Please see [Color Changer](https://github.com/DBTderpbox/Color-Changer)!
 
 # !!! WARNING WARNING WARNING !!!
